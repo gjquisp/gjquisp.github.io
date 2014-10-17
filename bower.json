@@ -1,0 +1,21 @@
+{
+  "name": "middleman-project",
+  "version": "0.0.0",
+  "homepage": "https://github.com/gjquisp/gjquisp.github.io",
+  "authors": [
+    "gjquisp <gregory.christie@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.4.6"
+  }
+}
