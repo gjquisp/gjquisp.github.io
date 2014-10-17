@@ -1,1 +1,1 @@
-Modernizr.addTest("emoji",function(){if(!Modernizr.canvastext)return!1;var e=document.createElement("canvas"),t=e.getContext("2d");return t.textBaseline="top",t.font="32px Arial",t.fillText("\ud83d\ude03",0,0),0!==t.getImageData(16,16,1,1).data[0]});
+Modernizr.addTest("emoji",function(){if(!Modernizr.canvastext)return!1;var t=document.createElement("canvas"),e=t.getContext("2d");return e.textBaseline="top",e.font="32px Arial",e.fillText("\ud83d\ude03",0,0),0!==e.getImageData(16,16,1,1).data[0]});

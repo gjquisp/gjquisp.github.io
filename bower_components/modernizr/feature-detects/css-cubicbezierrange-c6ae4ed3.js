@@ -1,1 +1,1 @@
-Modernizr.addTest("cubicbezierrange",function(){var e=document.createElement("div");return e.style.cssText=Modernizr._prefixes.join("transition-timing-function:cubic-bezier(1,0,0,1.1); "),!!e.style.length});
+Modernizr.addTest("cubicbezierrange",function(){var t=document.createElement("div");return t.style.cssText=Modernizr._prefixes.join("transition-timing-function:cubic-bezier(1,0,0,1.1); "),!!t.style.length});

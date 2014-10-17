@@ -1,0 +1,1 @@
+define(["../../core"],function(t){return t.now()});

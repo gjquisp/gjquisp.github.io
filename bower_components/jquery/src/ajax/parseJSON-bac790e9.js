@@ -1,1 +1,1 @@
-define(["../core"],function(e){return e.parseJSON=function(e){return JSON.parse(e+"")},e.parseJSON});
+define(["../core"],function(t){return t.parseJSON=function(t){return JSON.parse(t+"")},t.parseJSON});

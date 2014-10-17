@@ -1,1 +1,1 @@
-Modernizr.addTest("speechinput",function(){var e=document.createElement("input");return"speech"in e||"onwebkitspeechchange"in e});
+Modernizr.addTest("speechinput",function(){var t=document.createElement("input");return"speech"in t||"onwebkitspeechchange"in t});
